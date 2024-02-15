@@ -47,7 +47,7 @@ class _SplashScreenState extends State<SplashScreen> {
                         width: 120,
                         height: 120,
                       ),
-                      Text(widget.title ?? '', style: const TextStyle(fontSize: 25, color: Colors.white),),
+                      Text(widget.title ?? '', style: const TextStyle(fontSize: 25, color: Colors.red),),
                     ],
                   ),
                 ),
